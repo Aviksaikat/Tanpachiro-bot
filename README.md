@@ -2,6 +2,8 @@
 
 `Tanpachiro Bot` is a Telegram bot that can upload video files to a chat. It can also upload all the videos in a specified directory. With some slight modifications, you can make it upload as you want. With a [local bot API](https://github.com/tdlib/telegram-bot-api) server you can also make it support files upto 2GB in size.
 
+![](media/banner_tanpachiro.png)
+
 # Working Demo
 ![](media/demo.mp4)
 
