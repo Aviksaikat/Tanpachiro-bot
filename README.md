@@ -6,7 +6,8 @@
 
 
 # Working Demo 💻📱
-![](media/demo.mp4)
+![](media/https://user-images.githubusercontent.com/31238298/235325725-c2159cfe-399a-4139-9e5e-e40b2a9402f5.mp4)
+
 
 # Getting Started 🚀
 1. Clone the repository.
